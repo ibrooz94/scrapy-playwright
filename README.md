@@ -933,7 +933,7 @@ for information about working in headful mode under WSL.
 Specifying a proxy via the `proxy` Request meta key is not supported.
 Refer to the [Proxy support](#proxy-support) section for more information.
 
-### Unsopported signals
+### Unsupported signals
 The `headers_received` and `bytes_received` signals are not fired by the
 scrapy-playwright download handler.
 
